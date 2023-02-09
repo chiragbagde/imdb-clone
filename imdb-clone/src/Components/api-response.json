@@ -1,0 +1,182 @@
+{
+  "searchType": "Movie",
+  "expression": "spiderman",
+  "results": [
+    {
+      "id": "tt0145487",
+      "resultType": "Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_Ratio0.6757_AL_.jpg",
+      "title": "Spider-Man",
+      "description": "2002 Tobey Maguire, Kirsten Dunst"
+    },
+    {
+      "id": "tt10872600",
+      "resultType": "Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_Ratio0.6757_AL_.jpg",
+      "title": "Spider-Man: No Way Home",
+      "description": "2021 Tom Holland, Zendaya"
+    },
+    {
+      "id": "tt12122034",
+      "resultType": "Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjA2NmZhOGEtZTQ5OS00MDI0LTg4N2UtYTRmOTllM2I2NDlhXkEyXkFqcGdeQXVyNTU4OTE5Nzc@._V1_Ratio0.7027_AL_.jpg",
+      "title": "Spiderman the Verse",
+      "description": "2019– TV Mini Series Brandon Glasco, Joshua Gray"
+    },
+    {
+      "id": "tt0948470",
+      "resultType": "Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_Ratio0.6757_AL_.jpg",
+      "title": "The Amazing Spider-Man",
+      "description": "2012 Andrew Garfield, Emma Stone"
+    },
+    {
+      "id": "tt4633694",
+      "resultType": "Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_Ratio0.6757_AL_.jpg",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "description": "2018 Shameik Moore, Jake Johnson"
+    },
+    {
+      "id": "tt1872181",
+      "resultType": "Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_Ratio0.6757_AL_.jpg",
+      "title": "The Amazing Spider-Man 2",
+      "description": "2014 Andrew Garfield, Emma Stone"
+    },
+    {
+      "id": "tt2705436",
+      "resultType": "Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjFhN2RjZTctMzA2Ni00NzE2LWJmYjMtNDAyYTllOTkyMmY3XkEyXkFqcGdeQXVyNTA0OTU0OTQ@._V1_Ratio0.7027_AL_.jpg",
+      "title": "Italian Spiderman",
+      "description": "2007 Short David Ashby, Chris Asimos"
+    },
+    {
+      "id": "tt0413300",
+      "resultType": "Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_Ratio0.6757_AL_.jpg",
+      "title": "Spider-Man 3",
+      "description": "2007 Tobey Maguire, Kirsten Dunst"
+    },
+    {
+      "id": "tt2250912",
+      "resultType": "Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_Ratio0.6757_AL_.jpg",
+      "title": "Spider-Man: Homecoming",
+      "description": "2017 Tom Holland, Michael Keaton"
+    },
+    {
+      "id": "tt0112175",
+      "resultType": "Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmQ1NzBlYmItNmZkZi00OTZkLTg5YTEtNTI5YjczZjk3Yjc1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.7027_AL_.jpg",
+      "title": "Spider-Man: The Animated Series",
+      "description": "1994–1998 TV Series Christopher Daniel Barnes, Sara Ballantine"
+    },
+    {
+      "id": "tt0316654",
+      "resultType": "Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.7297_AL_.jpg",
+      "title": "Spider-Man 2",
+      "description": "2004 Tobey Maguire, Kirsten Dunst"
+    },
+    {
+      "id": "tt6320628",
+      "resultType": "Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGZlNTY1ZWUtYTMzNC00ZjUyLWE0MjQtMTMxN2E3ODYxMWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6757_AL_.jpg",
+      "title": "Spider-Man: Far from Home",
+      "description": "2019 Tom Holland, Samuel L. Jackson"
+    },
+    {
+      "id": "tt14311386",
+      "resultType": "Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmMzODkwNDktMTkyMy00MmU5LWE4MGMtYzIzZjdjNmJiZDRiXkEyXkFqcGdeQXVyNDU1NDQ0NzE@._V1_Ratio0.7027_AL_.jpg",
+      "title": "Miles Morales Ultimate Spiderman",
+      "description": "2021 Short Jerdarius Collier, Lolly Mariah"
+    },
+    {
+      "id": "tt6135682",
+      "resultType": "Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDFjOTc1NTYtNmZkMy00MjEzLTk5MTUtZTY4ZWYyYzRjNWM0XkEyXkFqcGdeQXVyNDU1ODk5ODg@._V1_Ratio0.7027_AL_.jpg",
+      "title": "Spider-Man",
+      "description": "2017–2020 TV Series Robbie Daymond, Nadji Jeter"
+    },
+    {
+      "id": "tt0076975",
+      "resultType": "Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzkwYjA4MzQtODM1ZS00MzQ5LTliYWEtMzc1ZDZlYzU2Y2FkXkEyXkFqcGdeQXVyNDM2MzU3Njc@._V1_Ratio0.6757_AL_.jpg",
+      "title": "The Amazing Spider-Man",
+      "description": "1977–1979 TV Series Nicholas Hammond, Robert F. Simon"
+    },
+    {
+      "id": "tt9362722",
+      "resultType": "Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjk5YTU0OTAtMTM1NC00Zjc1LWEzZjAtOWJkYzcxOGRhNWNhXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_Ratio0.7027_AL_.jpg",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "description": "2023 Shameik Moore, Hailee Steinfeld"
+    },
+    {
+      "id": "tt0290983",
+      "resultType": "Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjI0ZjVkN2MtMGZhNi00Yjk2LWIxMzktYzYwYzk0YWNmMjlhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.7027_AL_.jpg",
+      "title": "Spider-Man",
+      "description": "2003 TV Series Neil Patrick Harris, Lisa Loeb"
+    },
+    {
+      "id": "tt3696826",
+      "resultType": "Movie",
+      "image": "",
+      "title": "Spiderman 5",
+      "description": "2008 Short Carlo Gentile, Mario Giammaria"
+    },
+    {
+      "id": "tt0061301",
+      "resultType": "Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGM4N2FmMTktZmUyZi00OWNlLWExMzctNDcxNDI3ZTk2NGMxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.7297_AL_.jpg",
+      "title": "Spider-Man",
+      "description": "1967–1970 TV Series Paul Soles, Peg Dixon"
+    },
+    {
+      "id": "tt18351128",
+      "resultType": "Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzYzZDViNWYtNWViMS00NDMxLThlN2YtZjFkOWMwODkzNzhiXkEyXkFqcGdeQXVyMTUwMzM4NzU0._V1_Ratio0.8108_AL_.jpg",
+      "title": "The Amazing Spiderman 2 Webb Cut",
+      "description": "2021 Marcelo Alessandrini Acosta, Iván Alejandro Cuéllar Avilés"
+    },
+    {
+      "id": "tt0081938",
+      "resultType": "Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGRlY2ZjMzEtNDNjOC00ZmM4LTkzMjAtNDE5YWUxNWI0ZTI4XkEyXkFqcGdeQXVyNjI2OTgxNzY@._V1_Ratio0.6757_AL_.jpg",
+      "title": "Spider-Man",
+      "description": "1981–1982 TV Series Jack Angel, Lynn Johnson"
+    },
+    {
+      "id": "tt0100669",
+      "resultType": "Movie",
+      "image": "",
+      "title": "Spiderman",
+      "description": "1990 Short"
+    },
+    {
+      "id": "tt0976192",
+      "resultType": "Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzlkN2NlODMtNDU5OC00NTU3LTlkZWEtOTU4MjA2ZmU0YTViXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_Ratio0.6757_AL_.jpg",
+      "title": "The Spectacular Spider-Man",
+      "description": "2008–2009 TV Series Josh Keaton, Lacey Chabert"
+    },
+    {
+      "id": "tt0185116",
+      "resultType": "Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2EwYzA2YjMtNDdhYi00OTI1LWE2ODUtOWViODk4YjRjNzVmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.7027_AL_.jpg",
+      "title": "Spider-Man",
+      "description": "1978–1979 TV Series Shinji Tôdô, Mitsuo Andô"
+    },
+    {
+      "id": "tt5807780",
+      "resultType": "Movie",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGQ5YjE0NWYtNDRmNS00MzEyLTgzOWUtZTdiMDk5ZThiZmZkXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_Ratio0.6757_AL_.jpg",
+      "title": "Spider-Man",
+      "description": "2018 Video Game Yuri Lowenthal, Tara Platt"
+    }
+  ],
+  "errorMessage": ""
+}
