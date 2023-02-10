@@ -2,10 +2,10 @@
 
 ### How to run this code.
 
-1. Clone this repository in your local machine. Ensure that you have a mongo DB setup in your local machine.
+1. Clone this repository in your local machine. Ensure that you have a mongo DB setup locally.
 2. Navigate to backend and imdb-clone directory and run npm i.
 3. Ensure all the packages are installed.
-4. Now in the backend directory run npm start. Doing so will establish our server and connect to the database.
+4. In the backend directory run npm start. Doing so will establish our server and connect to the database.
 5. On an another terminal instance run npm start to start our react website.
 6. Now you are good to go.
 
