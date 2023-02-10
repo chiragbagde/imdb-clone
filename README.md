@@ -12,9 +12,8 @@
 ### Running the problem statements.
 
 1. Max Profit
-
-... Navigate to problemStatements directory.In the statement1 directory run the command node maxProfit.js to get the output.
+    Navigate to problemStatements directory.In the statement1 directory run the command node maxProfit.js to get the output.
 
 2. Water Tank
-...You can use the live server extension on vscode and run index.html file. To change the input change the input variable in index.js.
+    You can use the live server extension on vscode and run index.html file. To change the input change the input variable in index.js.
 
