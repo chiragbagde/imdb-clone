@@ -1,48 +1,34 @@
-let express = require('express');
-let mongoose = require('mongoose');
-let cors = require('cors');
-let bodyParser = require('body-parser');
-let dbConfig = require('./database/db');
+const express = require('express');
+const mongoose = require('mongoose');
+const cors = require('cors');
+const dbConfig = require('./database/db');
 
-// express route
-const movieRoute = require('../backend/routes/movie.route')
-const actorRoute = require('../backend/routes/actor.route')
-const producerRoute = require('../backend/routes/producer.route')
+const movieRoute = require('./routes/movie.route');
+const actorRoute = require('./routes/actor.route');
+const producerRoute = require('./routes/producer.route');
 
-
-// connecting MongoDB Database
-mongoose.Promise = global.Promise;
-mongoose.connect(dbConfig.db).then(() => {
-    console.log("database connected successfully!");
-},
-    error => {
-        console.log("could not connect to database" + error);
-    }
-)
+mongoose.connect(dbConfig.db)
+  .then(() => console.log('Database connected successfully'))
+  .catch((err) => {
+    console.error('Database connection failed:', err);
+    process.exit(1);
+  });
 
 const app = express();
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({
-    extended: true
-}));
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 app.use(cors());
-app.use('/movies', movieRoute)
-app.use('/actors', actorRoute)
-app.use('/producers', producerRoute)
 
-// PORT
-const port = process.env.PORT || 4000;
-const server = app.listen(port, () => {
-    console.log('Connected to port ' + port);
-})
+app.use('/movies', movieRoute);
+app.use('/actors', actorRoute);
+app.use('/producers', producerRoute);
 
-// 404 error
-app.use((req,res,next) => {
-    res.status(404).send('Error 404!')
-});
+app.use((req, res) => res.status(404).json({ error: 'Not found' }));
 
 app.use((err, req, res, next) => {
-    console.log(err.message);
-    if(!err.statusCode) err.statusCode = 500;
-    res.status(err.statusCode).send(err.message);
-})
+  console.error(err.message);
+  res.status(err.statusCode || 500).json({ error: err.message });
+});
+
+const port = process.env.PORT || 4000;
+app.listen(port, () => console.log(`Server running on port ${port}`));
