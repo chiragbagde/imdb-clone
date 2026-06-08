@@ -1,6 +1,15 @@
 import React from "react";
 import { Formik, Form, Field, ErrorMessage } from "formik";
 import { FormGroup, FormControl, Button } from "react-bootstrap";
+import * as Yup from "yup";
+
+const validationSchema = Yup.object({
+  name: Yup.string().min(1, "Required").max(200, "Too long").required("Movie name is required"),
+  boxoffice: Yup.number().min(0, "Must be positive").required("Box office is required"),
+  imdb: Yup.string()
+    .matches(/^\d+(\.\d)?$/, "Must be a number like 8.5")
+    .required("Rating is required"),
+});
 
 const HomePage = (props) => {
     return (
